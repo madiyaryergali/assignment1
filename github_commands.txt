@@ -1,2 +1,8 @@
--git add [file-name.txt]
--git add -A
+-git add [file-name.txt] #добавляет файл для каммит
+-git add -A # добавляет все измененные и добавленные файлы
+
+- git reset [file-name.txt] # убирает файл с каммита
+
+- git commit -m "commentary" #делает каммит с файлами
+
+- git push # все это пушит в осноную папку в гитхабе
